@@ -1,0 +1,6 @@
+-- Connection Logs
+Host: http://dashdb-txn-sbox-yp-dal09-08.services.dal.bluemix.net
+DB: BLUDB
+username: ftv84541
+password: z7-b1f2sbhtwp8gs
+sslConnection: true
