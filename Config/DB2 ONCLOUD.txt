@@ -1,0 +1,13 @@
+Host: http://dashdb-txn-sbox-yp-dal09-08.services.dal.bluemix.net
+DB: BLUDB
+username: ftv84541
+password: z7-b1f2sbhtwp8gs
+sslConnection: true
+
+//--------------- Principal
+Host name:  dashdb-txn-sbox-yp-dal09-04.services.dal.bluemix.net
+Port number:  50001
+Database name:  BLUDB
+User ID:  mmf72020
+PASS: 5705090hpznn-z2b
+sslConnection: true
